@@ -19,7 +19,7 @@
 
 //Optimized Method **Using left and right pointers, shifting O(N) time complexity 
 let maxArea = function(samples) {
-    
+     
     let result = 0 
     let left= 0
     let right = samples.length -1

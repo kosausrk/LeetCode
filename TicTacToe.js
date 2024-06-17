@@ -1,7 +1,7 @@
 //Tic tac toe 
 /*
 [X X X]
-[X X X]
+[X X X] 
 [X X X]
 
 
